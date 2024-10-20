@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/ThreeSumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/ProductOfArrayExceptSelfMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeSumMain">
+  <component name="RunManager" selected="Application.ProductOfArrayExceptSelfMain">
+    <configuration name="ProductOfArrayExceptSelfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.ProductOfArrayExceptSelfMain" />
+      <module name="jpcTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.importantMedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeSumMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantMedium.ThreeSumMain" />
       <module name="jpcTest" />
@@ -85,19 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" />
-      <module name="jpcTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.importantMedium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="org.importantMedium.MergeAllOverlappingIntervalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantMedium.MergeAllOverlappingIntervalMain" />
       <module name="jpcTest" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductOfArrayExceptSelfMain" />
         <item itemvalue="Application.ThreeSumMain" />
         <item itemvalue="Application.org.importantMedium.GroupAnagramsMain" />
         <item itemvalue="Application.org.importantMedium.MergeAllOverlappingIntervalMain" />
         <item itemvalue="Application.org.importantMedium.DuplicateNumberArrayGuaranteeOneDupMain" />
-        <item itemvalue="Application.org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" />
       </list>
     </recent_temporary>
   </component>
