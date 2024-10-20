@@ -12,6 +12,7 @@ class MergeIntervalSolutions {
         // Sort the intervals by the starting point
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         List<int[]> merged = new ArrayList<>();
+
         // Initialize the first interval as the initial merged interval
         int[] current = intervals[0];
         merged.add(current);

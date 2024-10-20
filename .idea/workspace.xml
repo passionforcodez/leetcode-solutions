@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/MergeAllOverlappingIntervalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/GroupAnagramsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/importantMedium/MergeAllOverlappingIntervalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/MergeAllOverlappingIntervalMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeAllOverlappingIntervalMain">
+  <component name="RunManager" selected="Application.GroupAnagramsMain">
     <configuration name="ClimbingStairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantEasy.ClimbingStairsMain" />
       <module name="jpcTest" />
@@ -61,6 +62,19 @@
     </configuration>
     <configuration name="DuplicateNumberArrayGuaranteeOneDupMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantMedium.DuplicateNumberArrayGuaranteeOneDupMain" />
+      <module name="jpcTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.importantMedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupAnagramsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.GroupAnagramsMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZerosMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantEasy.MoveZerosMain" />
-      <module name="jpcTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.importantEasy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupAnagramsMain" />
         <item itemvalue="Application.MergeAllOverlappingIntervalMain" />
         <item itemvalue="Application.DuplicateNumberArrayGuaranteeOneDupMain" />
         <item itemvalue="Application.LengthOfLongestSubstringWithoutRepCharMain" />
         <item itemvalue="Application.ClimbingStairsMain" />
-        <item itemvalue="Application.MoveZerosMain" />
       </list>
     </recent_temporary>
   </component>
