@@ -26,3 +26,4 @@ public class ClimbingStairsMain {
         System.out.println("Ways to Climb " + stairs + "steps: " + climbingStairs.climbingWays(stairs));
     }
 }
+

@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/ContainsDuplicateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/CopyArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/EqualArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/LargeElementArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/MergeTwoArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/MissingNumArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/RotationArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/SearchKeyArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/BinarySearchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/ClimbingStairsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/IntersectionArraysMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/MaxSumSubarrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/MergeTwoSortedLinkedListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/MoveZerosMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/RemoveDuplicatesArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/TwoSumMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/ValidParenthesisMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/subarray/countNegativeSubArrayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/LengthOfLongestSubstringWithoutRepCharMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/importantEasy/ClimbingStairsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/ClimbingStairsMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClimbingStairsMain">
+  <component name="RunManager" selected="Application.LengthOfLongestSubstringWithoutRepCharMain">
     <configuration name="BinarySearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantEasy.BinarySearchMain" />
       <module name="jpcTest" />
@@ -110,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LengthOfLongestSubstringWithoutRepCharMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" />
+      <module name="jpcTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.importantMedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoveZerosMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantEasy.MoveZerosMain" />
       <module name="jpcTest" />
@@ -123,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesisMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantEasy.ValidParenthesisMain" />
-      <module name="jpcTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.importantEasy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfLongestSubstringWithoutRepCharMain" />
         <item itemvalue="Application.ClimbingStairsMain" />
         <item itemvalue="Application.MoveZerosMain" />
         <item itemvalue="Application.org.importantEasy.IntersectionArraysMain" />
         <item itemvalue="Application.org.importantEasy.BinarySearchMain" />
-        <item itemvalue="Application.org.importantEasy.ValidParenthesisMain" />
       </list>
     </recent_temporary>
   </component>
