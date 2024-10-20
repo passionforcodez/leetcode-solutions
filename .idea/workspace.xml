@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/LengthOfLongestSubstringWithoutRepCharMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/DuplicateNumberArrayGuaranteeOneDupMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/importantEasy/ClimbingStairsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/importantEasy/ClimbingStairsMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +45,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LengthOfLongestSubstringWithoutRepCharMain">
-    <configuration name="BinarySearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantEasy.BinarySearchMain" />
+  <component name="RunManager" selected="Application.DuplicateNumberArrayGuaranteeOneDupMain">
+    <configuration name="ClimbingStairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantEasy.ClimbingStairsMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimbingStairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantEasy.ClimbingStairsMain" />
+    <configuration name="DuplicateNumberArrayGuaranteeOneDupMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.DuplicateNumberArrayGuaranteeOneDupMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.importantEasy.*" />
+          <option name="PATTERN" value="org.importantMedium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateNumberArrayGuaranteeOneDupMain" />
         <item itemvalue="Application.LengthOfLongestSubstringWithoutRepCharMain" />
         <item itemvalue="Application.ClimbingStairsMain" />
         <item itemvalue="Application.MoveZerosMain" />
         <item itemvalue="Application.org.importantEasy.IntersectionArraysMain" />
-        <item itemvalue="Application.org.importantEasy.BinarySearchMain" />
       </list>
     </recent_temporary>
   </component>
