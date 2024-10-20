@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/DuplicateNumberArrayGuaranteeOneDupMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/importantMedium/MergeAllOverlappingIntervalMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateNumberArrayGuaranteeOneDupMain">
+  <component name="RunManager" selected="Application.MergeAllOverlappingIntervalMain">
     <configuration name="ClimbingStairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.importantEasy.ClimbingStairsMain" />
       <module name="jpcTest" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantEasy.IntersectionArraysMain" />
+    <configuration name="LengthOfLongestSubstringWithoutRepCharMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.importantEasy.*" />
+          <option name="PATTERN" value="org.importantMedium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLongestSubstringWithoutRepCharMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantMedium.LengthOfLongestSubstringWithoutRepCharMain" />
+    <configuration name="MergeAllOverlappingIntervalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.importantMedium.MergeAllOverlappingIntervalMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeAllOverlappingIntervalMain" />
         <item itemvalue="Application.DuplicateNumberArrayGuaranteeOneDupMain" />
         <item itemvalue="Application.LengthOfLongestSubstringWithoutRepCharMain" />
         <item itemvalue="Application.ClimbingStairsMain" />
         <item itemvalue="Application.MoveZerosMain" />
-        <item itemvalue="Application.org.importantEasy.IntersectionArraysMain" />
       </list>
     </recent_temporary>
   </component>
