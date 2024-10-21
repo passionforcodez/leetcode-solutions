@@ -4,7 +4,6 @@ class ProductOfArrayExceptSelfSolution {
     public int[] productExceptSelf (int[] nums) {
         int n = nums.length;
         int[] result = new int[n];
-
         //Calculate left products and store them in result array
         // The product of all elements to the left of index 0 is 1
         result[0] = 1;
