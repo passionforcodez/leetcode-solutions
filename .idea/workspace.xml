@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dpProblems/FibonacciSequenceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dpProblems/LongestIncreasingSubSeqMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSequenceMain">
+  <component name="RunManager" selected="Application.LongestIncreasingSubSeqMain">
     <configuration name="FibonacciSequenceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dpProblems.FibonacciSequenceMain" />
       <module name="jpcTest" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptSelfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.importantMedium.ProductOfArrayExceptSelfMain" />
+    <configuration name="LongestIncreasingSubSeqMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dpProblems.LongestIncreasingSubSeqMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.importantMedium.*" />
+          <option name="PATTERN" value="org.dpProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestIncreasingSubSeqMain" />
         <item itemvalue="Application.FibonacciSequenceMain" />
         <item itemvalue="Application.org.dpProblems.CoinChangeMain" />
         <item itemvalue="Application.org.dpProblems.MaximumSubarraySumMain" />
         <item itemvalue="Application.org.dpProblems.KnapsackMain" />
-        <item itemvalue="Application.ProductOfArrayExceptSelfMain" />
       </list>
     </recent_temporary>
   </component>
