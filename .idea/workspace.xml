@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dpProblems/LongestIncreasingSubSeqMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/subarray/SubArraySumEqualKMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestIncreasingSubSeqMain">
+  <component name="RunManager" selected="Application.SubArraySumEqualKMain">
     <configuration name="FibonacciSequenceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dpProblems.FibonacciSequenceMain" />
       <module name="jpcTest" />
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.dpProblems.CoinChangeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.dpProblems.CoinChangeMain" />
+    <configuration name="SubArraySumEqualKMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.subarray.SubArraySumEqualKMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.dpProblems.*" />
+          <option name="PATTERN" value="org.subarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.dpProblems.KnapsackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.dpProblems.KnapsackMain" />
+    <configuration name="org.dpProblems.CoinChangeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dpProblems.CoinChangeMain" />
       <module name="jpcTest" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraySumEqualKMain" />
         <item itemvalue="Application.LongestIncreasingSubSeqMain" />
         <item itemvalue="Application.FibonacciSequenceMain" />
         <item itemvalue="Application.org.dpProblems.CoinChangeMain" />
         <item itemvalue="Application.org.dpProblems.MaximumSubarraySumMain" />
-        <item itemvalue="Application.org.dpProblems.KnapsackMain" />
       </list>
     </recent_temporary>
   </component>
