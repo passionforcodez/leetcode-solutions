@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88815e1e-89f7-437c-a342-ac98ce39f763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/subarray/SubArraySumZeroMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/subarray/SubArrayProductLessThanKMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubArraySumZeroMain">
+  <component name="RunManager" selected="Application.SubArrayProductLessThanKMain">
     <configuration name="FibonacciSequenceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dpProblems.FibonacciSequenceMain" />
       <module name="jpcTest" />
@@ -66,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.dpProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrayProductLessThanKMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.subarray.SubArrayProductLessThanKMain" />
+      <module name="jpcTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.subarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.dpProblems.CoinChangeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.dpProblems.CoinChangeMain" />
-      <module name="jpcTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.dpProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArrayProductLessThanKMain" />
         <item itemvalue="Application.SubArraySumZeroMain" />
         <item itemvalue="Application.SubArraySumEqualKMain" />
         <item itemvalue="Application.LongestIncreasingSubSeqMain" />
         <item itemvalue="Application.FibonacciSequenceMain" />
-        <item itemvalue="Application.org.dpProblems.CoinChangeMain" />
       </list>
     </recent_temporary>
   </component>
